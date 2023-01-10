@@ -1,0 +1,13 @@
+name: Qualidados_sem_modulos
+title: Qualidados_sem_modulos
+username:
+account: observatorioobstetrico
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7999700
+bundleId: 6714539
+url: https://observatorioobstetrico.shinyapps.io/Qualidados_sem_modulos/
+when: 1673295307.82355
+lastSyncTime: 1673295307.82356
+asMultiple: FALSE
+asStatic: FALSE
